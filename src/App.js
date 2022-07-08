@@ -1,5 +1,6 @@
 import movies from './movies_data.json';
 import Movie from './components/Movie';
+import './App.css'
 
 function App() {
   console.log(movies);
@@ -20,8 +21,7 @@ function App() {
             title={movie.title}
           />
         })
-      }
-      
+      } 
     </div>
   );
 }
