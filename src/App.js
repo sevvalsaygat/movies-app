@@ -13,7 +13,6 @@ function App() {
             casting={movie.casting}
             categories={movie.categories}
             cover_url={movie.cover_url}
-            id={movie.id}
             imbd={movie.imdb}
             min_age={movie.min_age}
             runtime={movie.runtime}

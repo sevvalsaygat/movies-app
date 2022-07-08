@@ -8,6 +8,11 @@
   
 }
 
+.movie-title{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 220%; 
+}
+
 .movie-content{
   margin-right:80px;
   margin: lem;
@@ -17,3 +22,32 @@
   width: 50%;
 }
 
+.movie-summary{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 120%;
+}
+
+.movie-casting{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 120%;
+}
+
+.movie-categories{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 120%;
+}
+
+.movie-imbd{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 120%;
+}
+
+.movie-age{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 120%;
+}
+
+.movie-runtime{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 120%;
+}
